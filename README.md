@@ -1,2 +1,2 @@
-# Codsoft-2
+# Movies Ratings Prediction | CodSoft Internship
 CodSoft Internship Task-2
